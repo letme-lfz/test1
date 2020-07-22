@@ -3,5 +3,7 @@
 commit 记录索引的状态
 pull 取得远端数据库的内容
 qqqq
+112222
 AAAAAAAAAAAAAAA
+bbbbbbbbbbbbb
 
